@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Selome Iroko 👋</h1>
+<h1 align="center">Hi, I'm Selome Iroko </h1>
 <h3 align="center">AI Automation & Workflow Engineer. Founder, iAutomateAnything</h3>
 
 <p align="center">
@@ -8,8 +8,8 @@
 
 <p align="center">
   <a href="https://iautomateanything.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-iautomateanything.com-black?style=for-the-badge" /></a>
-  <a href="https://linkedin.com/in/REPLACE_ME" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://twitter.com/REPLACE_ME" target="_blank"><img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter" /></a>
+  <a href="https://linkedin.com/in/selomeiroko" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://twitter.com/Me_victoor" target="_blank"><img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter" /></a>
   <a href="mailto:REPLACE_ME@example.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail" /></a>
 </p>
 
@@ -44,8 +44,8 @@ Every project is built end to end, covering architecture, integration, deploymen
 ![Tailwind](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
 **Engineering / CAD**
-![AutoCAD](https://img.shields.io/badge/AutoCAD-E51050?style=flat-square)
-![SolidWorks](https://img.shields.io/badge/SolidWorks-C41230?style=flat-square)
+![FreeCAD](https://img.shields.io/badge/FreeCAD-E51050?style=flat-square)
+![Fusion360](https://img.shields.io/badge/Fusion360-C41230?style=flat-square)
 
 ### 📌 Featured Projects
 
